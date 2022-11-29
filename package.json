@@ -1,0 +1,23 @@
+{
+  "name": "i18next-fs-fluent-backend",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.mjs",
+  "homepage": "https://github.com/pluiedev/i18next-fs-fluent-backend",
+  "bugs": "https://github.com/pluiedev/i18next-fs-fluent-backend/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pluiedev/i18next-fs-fluent-backend"
+  },
+  "keywords": [
+    "i18next",
+    "i18next-backend",
+    "fluent"
+  ],
+  "author": "pluiedev",
+  "license": "MIT",
+  "dependencies": {
+    "fluent_conv": "^3.1.0",
+    "i18next-fs-backend": "^2.0.1"
+  }
+}

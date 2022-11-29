@@ -1,0 +1,26 @@
+lockfileVersion: 5.4
+
+specifiers:
+  fluent_conv: ^3.1.0
+  i18next-fs-backend: ^2.0.1
+
+dependencies:
+  fluent_conv: 3.1.0
+  i18next-fs-backend: 2.0.1
+
+packages:
+
+  /@fluent/syntax/0.15.0:
+    resolution: {integrity: sha512-NIObEPekXiaDDO10NQSOeylOETaI2Ns/ymKJNvgkM6FcBARS+t3NVGyLPPIl/pqHDUB9v7bWeEmuVMJQjnpNeg==}
+    engines: {node: '>=10.0.0'}
+    dev: false
+
+  /fluent_conv/3.1.0:
+    resolution: {integrity: sha512-fmS8RFxkEP7P/XTlVbf8b8I0RSLOKFqlrARmwsH1bNrKxmbEGNjZQXg0R6QZz/FdFrHcp7sFAjLp75bB4CSPsA==}
+    dependencies:
+      '@fluent/syntax': 0.15.0
+    dev: false
+
+  /i18next-fs-backend/2.0.1:
+    resolution: {integrity: sha512-fzeiFOXqsMiFAFUnNyC4buERI11vTAuf7JIDWqaiPgBK3R+XJQMSY1LyoXaWspBEFaAkXH/0uMbOv7nttBFztg==}
+    dev: false
